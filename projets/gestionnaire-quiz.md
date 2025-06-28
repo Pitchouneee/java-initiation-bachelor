@@ -68,3 +68,11 @@ réponse: b
 ## 🧩 Besoin d’un coup de pouce ?
 
 🧠 C’est un projet final, alors cherche bien par toi-même. Mais si tu bloques vraiment, demande un petit indice 😉
+
+## 📤 Consignes de rendu
+
+Toutes les consignes détaillées pour le rendu final (GitHub, README, noms des membres, etc.) sont disponibles ici :
+
+📄 [projets/consignes.md](consignes.md)
+
+> Assure-toi de bien les lire avant de remettre ton projet !

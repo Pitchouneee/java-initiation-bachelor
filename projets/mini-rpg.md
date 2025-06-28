@@ -64,3 +64,11 @@ Le but est de montrer que tu sais structurer un programme orienté objet cohére
 ## 🧩 Besoin d’un coup de pouce ?
 
 🛡️ C’est ton combat ! Mais si ton magicien n’incante plus rien, appelle ton intervenant pour une potion de clarté ✨
+
+## 📤 Consignes de rendu
+
+Toutes les consignes détaillées pour le rendu final (GitHub, README, noms des membres, etc.) sont disponibles ici :
+
+📄 [projets/consignes.md](consignes.md)
+
+> Assure-toi de bien les lire avant de remettre ton projet !
