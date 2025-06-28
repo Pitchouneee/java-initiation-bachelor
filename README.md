@@ -38,8 +38,10 @@ Bienvenue sur ce dépôt de cours Java pensé pour une initiation ludique sur 3 
  ┃ ┣ 📜 TP4-Bibliotheque.md
  ┃ ┗ 📜 TP5-Tamagotchi.md
  ┣ 📂 projets
+ ┃ ┣ 📜 consignes.md
+ ┃ ┣ 📜 gestionnaire-quiz.md
  ┃ ┣ 📜 mini-rpg.md
- ┃ ┗ 📜 gestionnaire-quiz.md
+ ┃ ┗ 📜 questions.txt
  ┗ 📜 README.md
 ```
 
