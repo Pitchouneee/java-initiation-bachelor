@@ -1,0 +1,29 @@
+Quelle est la méthode principale pour exécuter un programme Java ?
+a) start()
+b) main(String[] args)
+c) launch()
+réponse: b
+
+Quelle structure permet de répéter un bloc tant qu'une condition est vraie ?
+a) if
+b) switch
+c) while
+réponse: c
+
+Quel type Java permet de stocker un nombre avec des décimales ?
+a) int
+b) double
+c) boolean
+réponse: b
+
+Parmi les mots-clés suivants, lequel sert à créer une nouvelle instance d'objet ?
+a) new
+b) create
+c) init
+réponse: a
+
+Quelle classe Java permet de lire des données au clavier ?
+a) InputReader
+b) Console
+c) Scanner
+réponse: c

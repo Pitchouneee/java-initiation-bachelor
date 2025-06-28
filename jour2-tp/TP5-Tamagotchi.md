@@ -62,7 +62,7 @@ public void afficherStatut() {
 ```
 
 > [!NOTE]
-> 🔐 L’encapsulation évite les modifications directes incontrôlées, et te permet de garder un *contrôle métier* (ex. : pas de faim négative).
+> 🔐 L’encapsulation évite les modifications directes incontrôlées, et te permet de garder un **contrôle métier** (ex. : pas de faim négative).
 
 ### 🔁 Menu console et boucle de jeu
 
