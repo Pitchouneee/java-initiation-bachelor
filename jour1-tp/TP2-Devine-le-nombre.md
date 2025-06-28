@@ -1,10 +1,15 @@
 # TP2 – 🎲 Devine le nombre !
 
-**Objectifs :** Utiliser les boucles et générer un nombre aléatoire.
+**Objectifs :** Utiliser les boucles et générer un nombre aléatoire
 
 ## 🎓 Cours lié : Boucles et nombres aléatoires
 
-Avant de te lancer dans ce TP, voici quelques notions utiles :
+Dans ce TP, tu vas découvrir comment **répéter une action tant qu'une condition n'est pas remplie**, et comment **faire choisir un nombre par l’ordinateur**.
+
+C’est l’occasion parfaite pour :
+- Te familiariser avec les **boucles conditionnelles**
+- Créer un **jeu interactif simple et addictif**
+- Apprendre à utiliser `Random` pour le côté imprévisible 🎲
 
 ### 🔁 Boucle `while`
 
@@ -55,7 +60,7 @@ Créer un programme interactif dans lequel :
 
 ## ✅ Exécution attendue
 
-```java
+```yaml
 Devine le nombre entre 1 et 100 :
 > 50
 C'est plus !
@@ -70,3 +75,7 @@ Bravo ! Tu as trouvé en 3 essais.
 - Ajouter un système de score (nb d’essais) pour s'améliorer à chaque partie
 - Proposer de rejouer une nouvelle partie automatiquement
 - Ajouter un chronomètre (utiliser `System.currentTimeMillis()`)
+
+## 🧩 Besoin d’un coup de pouce ?
+
+😵‍💫 Bloqué ? Pas grave, on est là pour apprendre !

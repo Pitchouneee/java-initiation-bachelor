@@ -1,6 +1,6 @@
 # TP1 – 🧮 Calculatrice CLI
 
-**Objectifs :** Manipuler les entrées clavier, les conditions et les opérations mathématiques de base.
+**Objectifs :** Manipuler les entrées clavier, les conditions et les opérations mathématiques de base
 
 ## 🎓 Cours lié : Les bases de Java (variables, types, opérateurs, `Scanner`)
 
@@ -58,7 +58,7 @@ Créer une petite calculatrice qui fonctionne dans le terminal :
 
 ## ✅ Exécution attendue
 
-```java
+```yaml
 Entrez le premier nombre : 8
 Entrez l'opération (+, -, *, /) : *
 Entrez le deuxième nombre : 3
@@ -71,3 +71,7 @@ Résultat : 24
 
 - Refaire un calcul tant que l’utilisateur veut
 - Supporter les décimales avec double au lieu de int
+
+## 🧩 Besoin d’un coup de pouce ?
+
+🤯 Si ça coince… y’a pas de honte, demande !

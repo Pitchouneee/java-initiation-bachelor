@@ -1,10 +1,15 @@
-### TP3 – ⏰ Horloge numérique
+# TP3 – ⏰ Horloge numérique
 
-**Objectifs :** Travailler les boucles, les délais et l’affichage dynamique en console.
+**Objectifs :** Travailler les boucles, les délais et l’affichage dynamique en console
 
-## 🎓 Cours lié : Boucles et nombres aléatoires
+## 🎓 Cours lié : Boucles infinies, temps système et pause d’exécution
 
-Avant de te lancer dans ce TP, voici quelques notions utiles :
+Dans ce TP, tu vas apprendre à :
+- Faire tourner un programme **en continu**
+- **Afficher l’heure actuelle** en direct
+- Ajouter une **pause régulière** pour simuler le temps réel
+
+L’occasion parfaite de combiner boucles, gestion du temps et affichage dynamique ⏳
 
 ### 🔁 Boucles infinies
 
@@ -17,7 +22,7 @@ while (true) {
 ```
 
 > [!WARNING]  
->⚠️ Attention : une boucle infinie doit être **maîtrisée**, sinon elle peut bloquer votre programme.
+> Attention : une boucle infinie doit être **maîtrisée**, sinon elle peut bloquer votre programme.
 
 ### ⏰ Obtenir l’heure système
 
@@ -62,10 +67,14 @@ Tu vas créer une horloge numérique qui :
 
 ## ✅ Exécution attendue
 
-```
+```yaml
 Il est actuellement 09:42:27
 ```
 
 ## 🧠 Bonus
 
 - Ajouter la date (avec `LocalDate`)
+
+## 🧩 Besoin d’un coup de pouce ?
+
+🤯 Le bug fait partie du jeu — demande un coup de main
