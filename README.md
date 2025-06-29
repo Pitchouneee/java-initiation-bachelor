@@ -42,6 +42,10 @@ Bienvenue sur ce dépôt de cours Java pensé pour une initiation ludique sur 3 
  ┃ ┣ 📜 gestionnaire-quiz.md
  ┃ ┣ 📜 mini-rpg.md
  ┃ ┗ 📜 questions.txt
+ ┣ 📂 bonus
+ ┃ ┣ 📜 TP6-Carnet-de-notes.md
+ ┃ ┣ 📜 TP7-Packages-et-organisation.md
+ ┃ ┗ 📜 notes.txt
  ┗ 📜 README.md
 ```
 
