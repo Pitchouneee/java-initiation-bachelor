@@ -6,8 +6,6 @@
 
 Ton fichier `Main.java` contient tout le code ? 😅 Il est temps de **séparer** les responsabilités !
 
----
-
 ## 📁 Objectif
 
 Réorganiser un TP précédent (ex. TP4 ou TP5) en :
