@@ -35,6 +35,11 @@ javac -d bin src/**/*.java
 java -cp bin Main
 ```
 
+📚 Pour aller plus loin :
+
+- [Organisation des packages en Java](https://docs.oracle.com/javase/tutorial/java/package/index.html)
+- [Guide javac (compilation)](https://docs.oracle.com/en/java/javase/21/docs/specs/man/javac.html)
+
 ## 🔧 Exemple de package dans Livre.java
 
 ```java

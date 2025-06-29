@@ -12,6 +12,10 @@ C’est l’occasion parfaite pour pratiquer :
 - L’**encapsulation** (principe clé de la POO)
 - L’interaction via un **menu console**
 
+📚 Pour aller plus loin :
+
+- [Encapsulation Java – Oracle Guide](https://docs.oracle.com/en/database/oracle/oracle-database/21/jjdev/Java-overview.html#GUID-68EE1A7B-1F78-4074-AB76-AF9B2CE878F6)
+
 ### 🧬 L’état d’un objet
 
 Un objet possède des **attributs** qui représentent son état actuel.

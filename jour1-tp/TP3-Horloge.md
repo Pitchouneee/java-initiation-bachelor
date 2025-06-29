@@ -11,6 +11,11 @@ Dans ce TP, tu vas apprendre à :
 
 L’occasion parfaite de combiner boucles, gestion du temps et affichage dynamique ⏳
 
+📚 Pour aller plus loin :
+
+- [Documentation `LocalTime`](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/time/LocalTime.html)
+- [`Thread.sleep()` – Oracle JavaDoc](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/lang/Thread.html#sleep(long))
+
 ### 🔁 Boucles infinies
 
 En Java, une boucle while(true) permet de répéter une action sans fin, tant qu’une condition est vraie.

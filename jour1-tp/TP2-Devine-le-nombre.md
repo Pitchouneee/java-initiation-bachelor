@@ -11,6 +11,11 @@ C’est l’occasion parfaite pour :
 - Créer un **jeu interactif simple et addictif**
 - Apprendre à utiliser `Random` pour le côté imprévisible 🎲
 
+📚 Pour aller plus loin :
+
+- [Documentation de `Random`](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Random.html)
+- [Tutoriel Oracle sur les boucles `while`](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html)
+
 ### 🔁 Boucle `while`
 
 Une boucle `while` permet de **répéter un bloc de code tant qu'une condition est vraie**. Exemple :

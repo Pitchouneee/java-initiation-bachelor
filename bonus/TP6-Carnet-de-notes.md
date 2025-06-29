@@ -8,6 +8,11 @@
 - Collections (`ArrayList`)
 - Classes Java simples
 
+📚 Pour aller plus loin :
+
+- [Documentation `Scanner`](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Scanner.html)
+- [Documentation `FileWriter`](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/io/FileWriter.html)
+
 ## 🎯 Objectifs du TP
 
 Créer un carnet de notes dans la console qui :

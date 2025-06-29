@@ -11,6 +11,11 @@ Ce premier TP est l'occasion parfaite pour découvrir les **fondations du langag
 - Lire des données saisies par l’utilisateur avec `Scanner`
 - Utiliser une **structure conditionnelle** (`switch` ou `if-else`)
 
+📚 Pour aller plus loin :
+
+- [Documentation de `Random`](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/Random.html)
+- [Tutoriel Oracle sur les boucles `while`](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/while.html)
+
 ### 🔢 Les types de variables
 
 Java est un langage **fortement typé**. Chaque variable doit avoir un type :

@@ -11,6 +11,11 @@ Ce TP t’initie à la **programmation orientée objet (POO)**, pilier fondament
 - Stocker ces objets dans une **collection dynamique** (`ArrayList`)
 - Manipuler tout cela à travers un menu interactif
 
+📚 Pour aller plus loin :
+
+- [Documentation `ArrayList`](https://docs.oracle.com/en/java/javase/21/docs/api/java.base/java/util/ArrayList.html)
+- [Syntaxe des classes – Oracle](https://docs.oracle.com/javase/tutorial/java/javaOO/classes.html)
+
 ### 🧱 Classe et objet : la base de la POO
 
 Une classe est un **plan de construction**. Un objet est une **instance** de cette classe :

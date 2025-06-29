@@ -60,6 +60,12 @@ Chaque TP contient :
 - IDE : IntelliJ IDEA Community ou VS Code avec extensions Java
 - Compte GitHub & Git installé localement
 
+📚 Ressources utiles :
+
+- [📘 Documentation Java officielle (Oracle)](https://docs.oracle.com/en/java/javase/21/)
+- [🧰 Tutoriels Oracle Java](https://docs.oracle.com/javase/tutorial/)
+- [📁 Java API (Java SE 21)](https://docs.oracle.com/en/java/javase/21/docs/api/index.html)
+
 ## 🏆 Conseils & Bonus
 
 - Faites un README sympa avec emojis, badges `shields.io` et captures 🎨
