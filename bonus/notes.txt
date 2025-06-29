@@ -1,0 +1,5 @@
+Alice;15.5
+Bob;12.0
+Charlie;17.25
+David;8.5
+Emma;19.0

@@ -128,3 +128,8 @@ Quel livre supprimer ? (titre exact) : Dune
 ## 🧩 Besoin d’un coup de pouce ?
 
 🧱 Si tu te heurtes à un mur, appelle le prof avant de le défoncer !
+
+📘 **Pour aller plus loin :**
+
+- 📝 [TP6 – Carnet de notes](../bonus/TP6-Carnet-de-notes.md) : découvre comment sauvegarder ta bibliothèque dans un fichier texte
+- 📦 [TP7 – Structurer son projet Java](../bonus/TP7-Packages-et-organisation.md) : apprends à organiser ton code comme un vrai dev

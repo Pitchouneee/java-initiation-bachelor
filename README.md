@@ -65,3 +65,10 @@ Chaque TP contient :
 ## 🎓 Bon apprentissage et amusez-vous !
 
 > _"Le meilleur moyen d’apprendre, c’est de coder avec plaisir." – Un intervenant heureux_
+
+## 🧠 Bonus avancés (facultatif)
+
+Ces TP sont là pour ceux qui veulent aller plus loin :
+
+- 📝 [TP6 – Carnet de notes](bonus/TP6-Carnet-de-notes.md) : persistance dans un fichier texte
+- 📦 [TP7 – Structurer son projet](bonus/TP7-Packages-et-organisation.md) : bonne pratique de séparation du code

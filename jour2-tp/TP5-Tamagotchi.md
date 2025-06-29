@@ -113,3 +113,7 @@ Bonheur : 50
 ## 🧩 Besoin d’un coup de pouce ?
 
 🧃 Ton Tamagotchi est perdu ? Ton intervenant est là pour le nourrir !
+
+📘 **Pour aller plus loin :**
+
+- 📦 [TP7 – Structurer son projet Java](../bonus/TP7-Packages-et-organisation.md) : transforme ton jeu Tamagotchi en vrai projet Java modulaire
